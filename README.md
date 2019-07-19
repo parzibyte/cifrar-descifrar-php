@@ -3,6 +3,10 @@
 
 Cifrar y descifrar datos con PHP usando la librería php-encryption; cifrar con clave general o con claves generadas por contraseñas de usuarios
 
+# Tutorial
+
+https://parzibyte.me/blog/2019/07/19/cifrar-descifrar-informacion-php/
+
 # Requisitos
 ## PHP
 1. Instalar en [Windows](https://parzibyte.me/blog/2017/12/11/configurar-instalar-php-7-apache-server-mysql-windows/)
